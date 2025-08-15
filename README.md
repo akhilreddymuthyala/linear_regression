@@ -1,8 +1,8 @@
-# 🚗 Simple Linear Regression – Car Price Prediction
+#  Simple Linear Regression – Car Price Prediction
 
 ![Project Screenshot](image.png)
 
-## 📌 About the Project
+##  About the Project
 - This project predicts the **resale price of a car** based on its **age** using **Simple Linear Regression**.
 - It uses the **`carprice.csv`** dataset containing car ages and corresponding prices.
 - Implemented in **Python** with libraries:
@@ -15,7 +15,7 @@
   - Understanding regression concepts
   - Quick demonstration of prediction models
 
-## 📈 Workflow
+##  Workflow
 1. Load dataset (`carprice.csv`)
 2. Visualize data using matplotlib
 3. Train a Simple Linear Regression model
