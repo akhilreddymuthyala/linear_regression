@@ -1,4 +1,4 @@
-#  Simple Linear Regression – Car Price Prediction
+[#  Simple Linear Regression – Car Price Prediction
 
 ![Project Screenshot](image.png)
 
@@ -21,3 +21,4 @@
 3. Train a Simple Linear Regression model
 4. Predict resale price for a given car age
 5. Display regression line on a plot
+](https://github.com/akhilreddymuthyala/linear_regression)
